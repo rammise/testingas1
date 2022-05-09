@@ -17,6 +17,9 @@ function Navbar() {
         <li>
           <Link to="/login">Login</Link>
         </li>
+        <li>
+          <Link to="/dashboard">Test Dashboard</Link>
+        </li>
       </ul>
     </nav>
   );
